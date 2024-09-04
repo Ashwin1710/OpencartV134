@@ -1,0 +1,55 @@
+21:15:39.719 [main] INFO  testCases.TC001_AccountRegisterationTest - Providing customer details...
+21:15:41.175 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating expected message...
+21:15:41.222 [main] INFO  testCases.TC001_AccountRegisterationTest - ***** Finished TC001_AccountRegisterationTest *****
+21:15:46.580 [main] INFO  testCases.TC001_AccountRegisterationTest - ***** Starting TC001_AccountRegisterationTest *****
+21:15:46.658 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on MyAccount Link
+21:15:47.083 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on Register Link
+21:15:47.083 [main] INFO  testCases.TC001_AccountRegisterationTest - Providing customer details...
+21:15:48.414 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating expected message...
+21:15:48.454 [main] INFO  testCases.TC001_AccountRegisterationTest - ***** Finished TC001_AccountRegisterationTest *****
+21:16:15.157 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpencartV134\crossbrowsertesting.xml
+
+21:16:18.441 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest - ***** Starting TC001_AccountRegisterationTest *****
+21:16:18.588 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest - Clicked on MyAccount Link
+21:16:18.993 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest - Clicked on Register Link
+21:16:18.996 [TestNG-tests-1] INFO  testCases.TC001_AccountRegisterationTest - Providing customer details...
+21:16:19.988 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationTest - ***** Starting TC001_AccountRegisterationTest *****
+21:16:30.131 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationTest - Clicked on MyAccount Link
+21:16:31.928 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationTest - Clicked on Register Link
+21:16:31.929 [TestNG-tests-2] INFO  testCases.TC001_AccountRegisterationTest - Providing customer details...
+22:09:09.190 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpencartV134\grid-docker.xml
+
+22:09:16.708 [main] INFO  testCases.TC001_AccountRegisterationTest - ***** Starting TC001_AccountRegisterationTest *****
+22:09:16.917 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on MyAccount Link
+22:09:17.455 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on Register Link
+22:09:17.493 [main] INFO  testCases.TC001_AccountRegisterationTest - Providing customer details...
+22:09:18.852 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating expected message...
+22:09:18.921 [main] INFO  testCases.TC001_AccountRegisterationTest - ***** Finished TC001_AccountRegisterationTest *****
+22:09:21.205 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest****
+22:09:22.390 [main] INFO  testCases.TC002_LoginTest - ****Finished TC002_LoginTest****
+22:09:56.459 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpencartV134\grid-docker.xml
+
+22:09:59.712 [main] INFO  testCases.TC001_AccountRegisterationTest - ***** Starting TC001_AccountRegisterationTest *****
+22:09:59.819 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on MyAccount Link
+22:10:00.178 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on Register Link
+22:10:00.181 [main] INFO  testCases.TC001_AccountRegisterationTest - Providing customer details...
+22:10:01.448 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating expected message...
+22:10:01.501 [main] INFO  testCases.TC001_AccountRegisterationTest - ***** Finished TC001_AccountRegisterationTest *****
+22:10:03.891 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest****
+22:10:05.056 [main] INFO  testCases.TC002_LoginTest - ****Finished TC002_LoginTest****
+22:11:24.582 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation\OpencartV134\grid-docker.xml
+
+22:11:28.086 [main] INFO  testCases.TC001_AccountRegisterationTest - ***** Starting TC001_AccountRegisterationTest *****
+22:11:28.212 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on MyAccount Link
+22:11:28.685 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on Register Link
+22:11:28.688 [main] INFO  testCases.TC001_AccountRegisterationTest - Providing customer details...
+22:11:30.019 [main] INFO  testCases.TC001_AccountRegisterationTest - Validating expected message...
+22:11:30.062 [main] INFO  testCases.TC001_AccountRegisterationTest - ***** Finished TC001_AccountRegisterationTest *****
+22:11:32.475 [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest****
+22:11:33.636 [main] INFO  testCases.TC002_LoginTest - ****Finished TC002_LoginTest****
+22:11:38.521 [main] INFO  testCases.TC001_AccountRegisterationTest - ***** Starting TC001_AccountRegisterationTest *****
+22:11:38.660 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on MyAccount Link
